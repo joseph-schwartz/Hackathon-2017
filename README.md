@@ -5,7 +5,6 @@ Here is a link to a Zip File containing the build of the game:
 https://drive.google.com/file/d/1_isrhn0eLtMIR1Rd264hJaCVnEsziKz_/view?usp=sharing
 
 The team: 
-
 Joe Schwartz, Luke Lamberg
 
 Brandon Michalowski also helped, though he had to go early so his main contribution was the level background.
